@@ -25,3 +25,6 @@ option = newline(option, 6, 'yAxis')
 chart.setOption(option)
 
 ```
+
+
+![参考图片](http://i.imgur.com/CluVBGb.png)
